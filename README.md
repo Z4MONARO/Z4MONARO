@@ -1,0 +1,3 @@
+- 👋 Hello World! Meu nome é Francisco Cesar Zamonaro Filho (@Z4MONARO).
+- 👩‍🎓 Sou graduando em Engenharia de Software pela UniRV.
+- 📚 Tenho interesse no desenvolvimento back-end, no momento estou aprendendo Java (na faculdade) e C (estudo próprio).
